@@ -6,31 +6,31 @@ The process is divided into five steps, each covering a different part. Per step
 
 ## Step 1
 
-[![Step 1](Step1/step1.png)](Step1/step1.mp4)
+[![Step 1](Step1/step1.png)](https://youtu.be/QZGntJ_iIKg)
 
 Open the two `stp`-files in this folder in CATIA and perform the operations as explained in the video. `CADstep1.CATPart` is file after these operations are completed
 
 ## Step 2
 
-[![Step 2](Step2/step2.png)](Step2/step2.mp4)
+[![Step 2](Step2/step2.png)](https://youtu.be/M4leKCwKaWo)
 
 This video shows how to do the mid section of a strut. `CADstep2.CATPart` is file after this step is completed.
 
 ## Step 3
 
-[![Step 3](Step3/step3.png)](Step3/step3.mp4)
+[![Step 3](Step3/step3.png)](https://youtu.be/V6m5HIrWvCw)
 
 This video shows how to do the front section of a strut. `CADstep3.CATPart` is file after this step is completed.
 
 ## Step 4
 
-[![Step 4](Step4/step4.png)](Step4/step4.mp4)
+[![Step 4](Step4/step4.png)](https://youtu.be/8jPYaZrqkAM)
 
 This video shows how to do the rear section of a strut. `CADstep4.CATPart` is the file after this step is completed.
 
 ## Step 5
 
-[![Step 5](Step5/step5.png)](Step5/step5.mp4)
+[![Step 5](Step5/step5.png)](https://youtu.be/hsM1AiVn5AM)
 
 This video shows how to join the front, mid and rear bits together for exporting. `CADstep5.CATPart` is the file after this step is completed.
 

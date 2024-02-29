@@ -8,7 +8,7 @@ The process is divided into five steps, each covering a different part. Per step
 
 [![Step 1](Step1/step1.png)](https://youtu.be/QZGntJ_iIKg)
 
-Open the two `stp`-files in this folder in CATIA and perform the operations as explained in the video. `CADstep1.CATPart` is file after these operations are completed
+Click the image to watch the video. Open the two `stp`-files in this folder in CATIA and perform the operations as explained in the video. `CADstep1.CATPart` is file after these operations are completed
 
 ## Step 2
 
